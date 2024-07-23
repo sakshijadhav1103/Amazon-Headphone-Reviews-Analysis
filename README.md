@@ -21,6 +21,14 @@ The reviews were saved into CSV files:
 - `Sonyreviews.csv`
 - `Boatreviews.csv`
 
+  ## Data Description
+The combined dataframe includes the following columns:
+- `rating`: The rating given by the reviewer (e.g., 3.0, 1.0, 5.0)
+- `Title`: The title of the review (e.g., "Echo problem", "To small")
+- `Body`: The body of the review text (e.g., "Echo problem", "Item over the ear not perfect")
+- `country`: The country from where the review was posted (e.g., "India")
+- `Product`: The product being reviewed (e.g., "Sony WH-CH510")
+
   ## Data Preprocessing
 
 ### Cleaning
