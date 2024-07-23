@@ -53,6 +53,14 @@ Post-hoc Tukey's Honestly Significant Difference (HSD) tests were performed to i
 ### Logistic Regression
 A logistic regression model was implemented to predict the product based on sentiment scores. The model was tuned using GridSearchCV and evaluated using cross-validation.
 
+##Dependencies 
+- requests
+- BeautifulSoup
+- pandas
+- numpy
+- nltk
+- statsmodels
+- sklearn 
 
 
   
